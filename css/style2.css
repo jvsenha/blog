@@ -390,6 +390,11 @@ h3 {
 }
 
 /* footer--------------------------------------*/
+.icon{
+    width: 30px;
+    float: left;
+    margin-right: 5px;
+}
 footer {
     background-color: #b1ffd0;
     margin: 0;
@@ -520,7 +525,7 @@ footer {
 
 .colfooter .redesocial:hover {
 
-    color: #fffb00;
+    color: #000000;
     transition: 0.2s;
 
 }
